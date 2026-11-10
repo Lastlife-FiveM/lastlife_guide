@@ -51,17 +51,14 @@ Your survivor gets to work. When the bar fills up, the materials go into your in
 
 ## Tools
 
-Better tools work faster and get more out of every spot. You start with the basics and unlock the rest through **Research**.
+Tools come in **tiers**. Every tier up works faster and gets more out of each rock or tree than the one before. You start with the basics and unlock the rest through **Research**.
 
-| Tool | For | How to get it |
-| --- | --- | --- |
-| Stone Hatchet | Trees | You start with one |
-| Hatchet | Trees | Craft it |
-| Pickaxe | Rock | Craft it |
-| Metal Detector | Sand | Craft it |
-| Battle Axe | Trees | Research |
-| Jackhammer | Rock | Research |
-| Chainsaw | Trees | Research |
+| Tier | ⛏️ Rock | 🪓 Trees | 🔍 Sand | How to get it |
+| --- | --- | --- | --- | --- |
+| **Early** | Pickaxe | Stone Hatchet, Hatchet | Metal Detector | You spawn with a Stone Hatchet. Craft the rest. |
+| **Mid** | | Battle Axe | | Research |
+| **Mid–late** | Jackhammer | | | Research |
+| **Late** | | Chainsaw | | Research |
 
 {% hint style="info" %}
 **Power tools are heavy.** The jackhammer and chainsaw are the best at what they do, but they take up a good chunk of your carry weight. Plan your trip.
