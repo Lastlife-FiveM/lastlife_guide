@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: LastLife Guide
+  structure:
+    - type: space
+      key: space-guide
+      title: Survivor Guide
+      path: guide
+      default: true
+      content:
+        directory: ./
