@@ -17,5 +17,8 @@ It won't tell you everything. Some things are better found out the hard way.
 
 ## Where to start
 
-* New here? Start with **Gathering**: it's how every survivor gets going.
+* **New here?** Read [Getting Started](gameplay/getting-started.md), then [Zones & PvP](gameplay/zones.md). The second one has the server's rules on fighting.
+* **Need materials?** [Gathering](gameplay/gathering.md) and [Crafting & Research](gameplay/crafting-research.md).
+* **Ready to settle down?** [Base Building](gameplay/base-building.md).
+* **Feeling brave?** [The Subway](gameplay/subway.md).
 * Got a question that isn't answered here? Ask in our Discord.
