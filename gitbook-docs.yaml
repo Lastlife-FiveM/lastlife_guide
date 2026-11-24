@@ -9,4 +9,10 @@ site:
       path: guide
       default: true
       content:
-        directory: ./
+        directory: ./guide
+    - type: space
+      key: space-rules
+      title: Server Rules
+      path: rules
+      content:
+        directory: ./rules
