@@ -21,6 +21,14 @@ This page is about the **open world**. In safe zones you never fight. In red zon
 * They're **breaking into your base** or stealing your vehicle in front of you.
 * You're **already in a fight** with them that hasn't ended.
 
+## Rob or kill
+
+Everywhere roleplay applies, you can **rob someone or kill them, never both.**
+
+* **Robbed them?** They handed it over, so they walk away alive. You don't get to kill them as well.
+* **Want them dead?** Then it's a fight, not a robbery. Don't strip them first and shoot them after.
+* **Red zones and the subway are free game.** Kill On Sight there, rob and kill as you like.
+
 ## Robberies
 
 * **Say what you want.** Then let people hand it over.

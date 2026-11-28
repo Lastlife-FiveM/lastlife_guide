@@ -6,6 +6,11 @@ description: Staying in character in a dead city.
 
 You don't have to be an actor. You do have to play a person who wants to live.
 
+{% hint style="warning" %}
+**This is a roleplay server, everywhere except the red zones and the subway.** Safe zones, the open world, your base, the road:
+you're your character the whole time. Only inside a **🔴 red zone** or the **🚇 subway** does roleplay stop being required (Kill On Sight).
+{% endhint %}
+
 ## Stay in character
 
 * **You're in character whenever you're in the world.** Use **OOC** chat for anything else, and keep it short.

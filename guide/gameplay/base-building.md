@@ -179,6 +179,7 @@ Rockets also damage pieces. You can't plant on your own or your crew's base.
 
 ### When a base can be raided
 
+* **Raid hours only.** Bases can only be raided on **Saturday and Sunday evenings**. See the [raiding rules](https://lastlife-2.gitbook.io/lastlife-docs/rules/raiding) for the exact times.
 * **Protected while everyone is offline.** A base becomes safe **15 minutes** after the last owner logs off.
 * **Logging off doesn't stop a raid.** Once one has started, the base stays raidable for **45 minutes**.
 * **Check raiding status** on a piece tells you whether you can raid it right now.

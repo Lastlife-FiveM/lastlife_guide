@@ -9,7 +9,7 @@ Where you're standing decides the rules. Safe zones and red zones are marked on 
 | Zone | Fighting | Robbing | Looting bodies |
 | --- | --- | --- | --- |
 | 🛡️ **Safe zones** | Never | Never | Never |
-| 🌍 **Open world** | With roleplay | With roleplay | Yes, see below |
+| 🌍 **Open world** | With roleplay | With roleplay (rob **or** kill) | Yes, see below |
 | 🔴 **Red zones** | **Kill On Sight** | Anything goes | Yes |
 | 🚇 **The subway** | **Kill On Sight** | Anything goes | Yes |
 
@@ -24,7 +24,9 @@ Where you're standing decides the rules. Safe zones and red zones are marked on 
 
 ## 🌍 Open world
 
+* **Roleplay rules apply.** This is a roleplay server everywhere outside the red zones and the subway.
 * **No Kill On Sight.** Fights need a story. See [PvP & Robberies](pvp.md).
+* **Rob or kill, never both.** See [PvP & Robberies](pvp.md).
 * **Crews get 10 minutes** with their own bodies. After that anyone can search them.
 * **Chasing?** If a fight starts in a red zone and moves out, it may continue without a break. Once you lose each other, the open world rules are back.
 
